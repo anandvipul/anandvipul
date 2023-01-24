@@ -28,7 +28,7 @@
 
 - :telescope: Looking forward with MERN STACK.
 
-- :mailbox: Dont forget to check out <a href="vipul.page">My Website</a>.
+- :mailbox: Dont forget to check out <a href="https://vipul.page/">My Website</a>.
 
 
 ### :hammer_and_wrench: Languages :
